@@ -158,7 +158,7 @@ wine_model1 = lm(formula = cases ~ month_2 + month_3 + month_4 + month_5 + month
 
 outreg(wine_model1)
 
-
+#This is still a work in progress. Last updated 11/7/2019
 
 
 
